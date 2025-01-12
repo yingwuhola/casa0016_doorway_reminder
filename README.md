@@ -14,7 +14,7 @@ forgetting essential items such as keys or umbrellas when rushing out the door. 
 (6)Servo motor  
 (7)Buzzer
 # Circuit Diagram
-<img src="images/circuit1.png" alt="" width="400"> <img src="images/circuit2.jpg" alt="" width="320">
+<img src="images/circuit1.png" alt="" width="450"> <img src="images/circuit2.jpg" alt="" width="320">
 
 # How it works
 ### Feature 1 : Key Reminder  
