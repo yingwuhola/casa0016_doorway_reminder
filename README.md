@@ -1,5 +1,5 @@
 # casa0016 Smart Doorway Reminder
-<img src="images/cover1.jpg" alt="" width="400"> <img src="images/cover2.jpg" alt="" width="400">  
+<img src="images/cover1.jpg" alt="" width="500"> <img src="images/cover2.jpg" alt="" width="350">  
 # Overview
 The Smart Doorway Reminder System is a sophisticated device designed to help individuals remember essential items like keys and umbrellas upon exiting their homes. Utilizing Arduino Uno, it employs a PIR sensor for motion detection and a DHT-22 sensor for humidity monitoring. When intent to exit is detected, it triggers visual and auditory reminders. Despite its efficacy, enhancements such as directional sensors could improve its accuracy.
 # Background & Inspiration
@@ -14,7 +14,7 @@ forgetting essential items such as keys or umbrellas when rushing out the door. 
 (6)Servo motor  
 (7)Buzzer
 # Circuit Diagram
-<img src="images/circuit1.png" alt="" width="400"> <img src="image2/circuit2.jpg" alt="" width="400">
+<img src="images/circuit1.png" alt="" width="400"> <img src="images/circuit2.jpg" alt="" width="400">
 
 # How it works
 ### Feature 1 : Key Reminder  
