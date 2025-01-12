@@ -14,15 +14,15 @@ forgetting essential items such as keys or umbrellas when rushing out the door. 
 (6)Servo motor  
 (7)Buzzer
 # Circuit Diagram
-<img src="images/circuit1.png" alt="" width="400"> <img src="images/circuit2.jpg" alt="" width="400">
+<img src="images/circuit1.png" alt="" width="400"> <img src="images/circuit2.jpg" alt="" width="320">
 
 # How it works
 ### Feature 1 : Key Reminder  
 <img src="images/fun1.GIF" alt="" width="400">  
 Green LED stays ON default  
-PIR sensor detects motion for 5 seconds --> determines intent to exit  
-Red LED blinks twice  
-servo motor rotates tray to catch attention  
+<br>PIR sensor detects motion for 5 seconds --> determines intent to exit  
+<br>Red LED blinks twice  
+<br>servo motor rotates tray to catch attention  
 
 ### Feature 2 : Rainy Day Reminder  
 <img src="images/fun2.jpg" alt="" width="400"> <img src="images/fun2_serial.png" alt="" width="400">  
