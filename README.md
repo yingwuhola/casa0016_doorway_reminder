@@ -29,6 +29,10 @@ Green LED stays ON default
 when detecting exit intent, the DHT-22 sensor checks humidity  
 if humidity > present threshold (e.g., 55%), the buzzer sounds a short alerts
 
-## Reference
+## Reference  
+Marois, R. and Ivanoff, J. (2005). Capacity limits of information processing in the brain.  
+Yan, J., Lou, P., Li, R., Hu, J. and Xiong, J. (2018). Research on the Multiple Factors Influencing Human Identification Based on Pyroelectric Infrared Sensors.  
+Wolkoff, P. (2018). Indoor air humidity, air quality, and health – An overview.
+
 
 
