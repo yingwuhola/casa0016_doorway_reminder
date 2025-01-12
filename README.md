@@ -25,7 +25,7 @@ Red LED blinks twice
 servo motor rotates tray to catch attention  
 
 ### Feature 2 : Rainy Day Reminder  
-<img src="images/fun2.jpg" alt="" width="400"> <img src="image/fun2_serial.png" alt="" width="400">  
+<img src="images/fun2.jpg" alt="" width="400"> <img src="images/fun2_serial.png" alt="" width="400">  
 when detecting exit intent, the DHT-22 sensor checks humidity  
 if humidity > present threshold (e.g., 55%), the buzzer sounds a short alerts
 
